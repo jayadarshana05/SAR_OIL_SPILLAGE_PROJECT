@@ -206,8 +206,16 @@ This section contains brief summaries of various practice codes covering image p
 **Code_1:**  
 Input: No input  
 Output: Live webcam video feed in a window titled "Camera Stream" until ‘q’ is pressed.  
-![Code1 Input](PracticeCodes_CV/outputs/code1_input.png)
-![Code1 Output](PracticeCodes_CV/outputs/code1_output.png)
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code1_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code1_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_2:**  
 Input: No input  

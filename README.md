@@ -189,6 +189,42 @@ oil_spill/
 - Ensure all dependencies are installed
 - Activate the correct conda/virtual environment
 
+Pracice Codes brief descriptions
+
+(For results screenshots refer attached word/pdf file in Practice code folder).
+
+Code 1: Captures live webcam frames (camera index 0) and displays them continuously until the user presses q.
+
+Code 2: Captures webcam frames, displays them in real time, and saves each frame as an image into a frames folder until q is pressed.
+
+Code 3: Reads an image from disk, opens it in a window, waits for a key press, and then closes the window.
+
+Code 4: Loads an image and creates/displays three flipped versions (vertical, horizontal, both) alongside the original.
+
+Code 5: Reads an image, resizes it to fixed dimensions (300×300), displays original and resized images, and saves the resized result.
+
+Code 6: Converts a loaded image to grayscale, displays both original and grayscale images, and optionally saves the grayscale image.
+
+Code 7: Applies a Gaussian blur (15×15 kernel) to an image, showing both the original and blurred outputs (optionally saving the result).
+
+Code 8: Creates a blank 500×500 black image, draws basic geometric shapes and text on it, and displays the result until a key is pressed.
+
+Code 9: Loads an image in grayscale, applies binary thresholding at value 127, and displays the original and thresholded images.
+
+Code 10: Performs Canny edge detection on a grayscale image (thresholds 100 and 200) and displays the detected edges.
+
+Code 11: Uses a pre-trained Haar cascade to detect faces in an image, draws rectangles around faces, and displays the annotated image.
+
+Code 12: Detects contours in an image and displays the original image with green outlines highlighting all detected contours.
+
+Code 13: Converts an image to HSV, creates a mask for blue color ranges, and displays Original, Mask, and Filtered (only-blue) windows.
+
+Code 14: Performs foreground segmentation to remove the background and displays an image showing only the segmented foreground.
+
+Code 15: Captures webcam frames and performs real-time blue-color tracking, showing three windows: Frame, Mask, and Tracked output.
+
+Code 16: Converts an image to binary, then demonstrates morphological operations (erosion and dilation) with Original, Erosion, and Dilation views.
+
 ## 📄 License
 
 This project is provided as-is for demonstration and research purposes.

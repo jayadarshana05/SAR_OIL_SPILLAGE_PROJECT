@@ -1,0 +1,42 @@
+Application is running with Unicode string encoding.
+License request failed for feature
+
+Requesting CREOSIM_SSQ ...
+C:\PTC_Creo_5.0_F000x64\PTC_Creo_5.0_F000x64\Crack\PTC.LICENSE.WINDOWS.2018-03-20-SSQ\PTC_D_SSQ.dat.template: (-1) Cannot find license file.
+
+Requesting CREOPMA_SSQ ...
+
+Requesting PROE_SSQ ...
+init_simulate_app:  mode = MECH_INIT_ONSTARTUP (INFO MESSAGE)
+pglSetStatus::   Pgl Session Initialize (INFO MESSAGE)
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+uit_get_visual_style_low:  Style is PTC Creo 4 (INFO MESSAGE)
+init_simulate_app:  mode = MECH_INIT_ONSTARTUP (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdDwgTblFromGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFltFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Can't to find the command: ProCmdFaceted (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 55 commands (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdMankSelGalPostr' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'man_postures_apply.bif' is not valid ('32x32') in short resource 'procmdmankapplgalpostr.res' (INFO MESSAGE)
+UitGroupItem::initVertCells:  The maximum group height has been increased to 100 (INFO MESSAGE)
+addHints:  adding UGC_NEUTRAL (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_NEUTRAL (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+addHints:  adding UGC_NEUTRAL (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_NEUTRAL (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'session_warning_events32x16' is not valid ('32x16') in short resource 'procmdinfonmgrlightdlg.res' (INFO MESSAGE)
+pglSetStatus::   PglWindowEndNoGraphics: Not in nographics mode. (INFO MESSAGE)
+
+ run mode = 2
+uit_get_visual_style_low:  Style is PTC Creo 4 (INFO MESSAGE)
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 5.0.0.0\Common Files\\x86e_win64\obj\SWToPro.exe accessible (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 5.0.0.0\Common Files\\x86e_win64\obj\SeodxToPro.exe accessible (INFO MESSAGE)
+PFSDBArrToFilter:  shouldn't do both (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+AdbPage::buildSizeStateTable:  Can't build Size State Table for page 'page_Home' (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+Can't run without proper initialization. 

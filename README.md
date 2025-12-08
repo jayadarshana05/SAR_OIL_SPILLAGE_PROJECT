@@ -205,7 +205,7 @@ This project is provided as-is for demonstration and research purposes.
 Code_1:
 Input: No input
 Output: Live webcam video feed in a window titled "Camera Stream" until ‘q’ is pressed.
-<img width="798" height="624" alt="Screenshot 2025-12-08 202507" src="https://github.com/user-attachments/assets/f6f41b7e-78b3-4e1d-b0c8-b8f6984c0107" />
+<img width="200" height="200" alt="Screenshot 2025-12-08 202507" src="https://github.com/user-attachments/assets/f6f41b7e-78b3-4e1d-b0c8-b8f6984c0107" />
 
 
 

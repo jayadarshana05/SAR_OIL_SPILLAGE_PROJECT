@@ -198,14 +198,35 @@ This project is provided as-is for demonstration and research purposes.
 - YOLOv11 by Ultralytics
 - Streamlit for the web framework
 - All open-source contributors
-Pratice Code Summury
+## 📝 Practice Code Summaries
   This section contains brief summaries of various practice codes covering image processing, computer vision, and NLP tasks, showing inputs and outputs for each.
-
 Code_1:
 Input: No input
 Output: Live webcam video feed in a window titled "Camera Stream" until ‘q’ is pressed.
 
-Code1 Input	Code1 Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Input	Output
 Code_2:
 Input: No input

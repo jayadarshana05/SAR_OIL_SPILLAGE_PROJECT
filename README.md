@@ -198,6 +198,106 @@ This project is provided as-is for demonstration and research purposes.
 - YOLOv11 by Ultralytics
 - Streamlit for the web framework
 - All open-source contributors
+Pratice Code Summury
+  This section contains brief summaries of various practice codes covering image processing, computer vision, and NLP tasks, showing inputs and outputs for each.
+
+Code_1:
+Input: No input
+Output: Live webcam video feed in a window titled "Camera Stream" until ‘q’ is pressed.
+
+Code1 Input	Code1 Output
+Input	Output
+Code_2:
+Input: No input
+Output: Live webcam feed with each frame saved sequentially in a folder named frames.
+
+Code_3:
+Input: Image file path
+Output: Displays the image or prints "Error: Could not read image."
+
+Code_4:
+Input: Image file path
+Output: Four windows showing original and flipped images; error if loading fails.
+
+Code_5:
+Input: Image file path
+Output: Shows original and resized 300x300 image; saves resized as resized_output.jpg.
+
+Code_6:
+Input: Image file path
+Output: Shows original and grayscale images; saves grayscale as grayscale_output.jpg.
+
+Code_7:
+Input: Image file path
+Output: Displays original and Gaussian-blurred images; saves blurred as blurred_output.jpg.
+
+Code_8:
+Input: No input
+Output: Displays a 500x500 black image with a line, rectangle, circle, and text.
+
+Code_9:
+Input: Image file path
+Output: Shows grayscale image and its binary thresholded version.
+
+Code_10:
+Input: Image file path
+Output: Displays Canny edge-detected image in a window titled "Edges".
+
+Code_11:
+Input: Image file path
+Output: Shows image with blue rectangles around detected faces.
+
+Code_12:
+Input: Image file path
+Output: Displays image with detected contours highlighted in green.
+
+Code_13:
+Input: Image file path
+Output: Shows original image, blue mask, and filtered blue regions.
+
+Code_14:
+Input: Image file path
+Output: Displays extracted foreground in a window.
+
+Code_15:
+Input: No input
+Output: Live webcam feed highlighting blue-colored regions in real time.
+
+Code_16:
+Input: Image file path
+Output: Displays thresholded, eroded, and dilated images.
+
+Code_17:
+Input: Text string
+Output: List of cleaned, tokenized, lemmatized words.
+
+Code_18:
+Input: List of sentences
+Output: Classification report, confusion matrix, predictions, and class probabilities.
+
+Code_19:
+Input: List of sentences
+Output: Best parameters, best CV F1 score, and a sample prediction.
+
+Code_20:
+Input: List of sentences
+Output: Vocabulary list and TF-IDF matrix of the input texts.
+
+Code_21:
+Input: Text string
+Output: Named Entities, POS with lemmas, and noun chunks extracted from text.
+
+Code_22:
+Input: List of sentences
+Output: Classification report for sentiment prediction.
+
+Code_23:
+Input: List of sentences
+Output: Cosine similarity matrix showing pairwise similarity scores.
+
+Code_24:
+Input: List of sentences
+Output: Topics discovered with top words and their weights.
 
 ## 📧 Support
 

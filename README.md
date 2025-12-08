@@ -220,95 +220,328 @@ Output: Live webcam video feed in a window titled "Camera Stream" until ‘q’ 
 **Code_2:**  
 Input: No input  
 Output: Live webcam feed with each frame saved sequentially in a folder named `frames`.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code2_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code2_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_3:**  
 Input: Image file path  
 Output: Displays the image or prints "Error: Could not read image."  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code3_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code3_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_4:**  
 Input: Image file path  
 Output: Four windows showing original and flipped images; error if loading fails.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code4_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code4_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_5:**  
 Input: Image file path  
 Output: Shows original and resized 300x300 image; saves resized as `resized_output.jpg`.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code5_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code5_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_6:**  
 Input: Image file path  
 Output: Shows original and grayscale images; saves grayscale as `grayscale_output.jpg`.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code6_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code6_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_7:**  
 Input: Image file path  
 Output: Displays original and Gaussian-blurred images; saves blurred as `blurred_output.jpg`.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code7_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code7_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_8:**  
 Input: No input  
 Output: Displays a 500x500 black image with a line, rectangle, circle, and text.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code1_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code8_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_9:**  
 Input: Image file path  
 Output: Shows grayscale image and its binary thresholded version.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code9_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code9_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_10:**  
 Input: Image file path  
 Output: Displays Canny edge-detected image in a window titled "Edges".  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code10_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code10_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_11:**  
 Input: Image file path  
 Output: Shows image with blue rectangles around detected faces.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code11_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code11_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_12:**  
 Input: Image file path  
 Output: Displays image with detected contours highlighted in green.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code12_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code12_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_13:**  
 Input: Image file path  
 Output: Shows original image, blue mask, and filtered blue regions.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code13_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code13_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_14:**  
 Input: Image file path  
 Output: Displays extracted foreground in a window.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code14_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code14_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_15:**  
 Input: No input  
 Output: Live webcam feed highlighting blue-colored regions in real time.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code15_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code15_output1.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_16:**  
 Input: Image file path  
 Output: Displays thresholded, eroded, and dilated images.  
+<table>
+<tr>
+<td><img src="PracticeCodes_CV/outputs/code16_input.png" width="200" alt="Code1 Input"></td>
+<td><img src="PracticeCodes_CV/outputs/code16_output.png" width="200" alt="Code1 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_17:**  
 Input: Text string  
 Output: List of cleaned, tokenized, lemmatized words.  
+<table>
+<tr>
+<td> Text string</td>
+<td><img src="PracticeCodes_CV/outputs/code17_output.png" width="200" alt="Code24 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_18:**  
 Input: List of sentences  
-Output: Classification report, confusion matrix, predictions, and class probabilities.  
+Output: Classification report, confusion matrix, predictions, and class probabilities. 
+<table>
+<tr>
+<td>List of sentences</td>
+<td><img src="PracticeCodes_CV/outputs/code18_output.png" width="200" alt="Code24 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_19:**  
 Input: List of sentences  
 Output: Best parameters, best CV F1 score, and a sample prediction.  
+<table>
+<tr>
+<td>List of sentences</td>
+<td><img src="PracticeCodes_CV/outputs/code19_output.png" width="200" alt="Code24 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
+
 
 **Code_20:**  
 Input: List of sentences  
 Output: Vocabulary list and TF-IDF matrix of the input texts.  
+<table>
+<tr>
+<td>List of sentences</td>
+<td><img src="PracticeCodes_CV/outputs/code20_output.png" width="200" alt="Code24 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_21:**  
 Input: Text string  
 Output: Named Entities, POS with lemmas, and noun chunks extracted from text.  
+<table>
+<tr>
+<td>Text string</td>
+<td>
+  <img src="PracticeCodes_CV/outputs/code21_output.png" width="200" alt="Code21 Output">
+  <img src="PracticeCodes_CV/outputs/code21_output1.png" width="200" alt="Code21 Output">
+</td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_22:**  
 Input: List of sentences  
 Output: Classification report for sentiment prediction.  
+<table>
+<tr>
+<td>List of sentences</td>
+<td><img src="PracticeCodes_CV/outputs/code22_output.png" width="200" alt="Code24 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_23:**  
 Input: List of sentences  
 Output: Cosine similarity matrix showing pairwise similarity scores.  
+<table>
+<tr>
+<td>List of sentences</td>
+<td><img src="PracticeCodes_CV/outputs/code23_output.png" width="200" alt="Code24 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 **Code_24:**  
 Input: List of sentences  
 Output: Topics discovered with top words and their weights.  
- 
+<table>
+<tr>
+<td>List of sentences</td>
+<td><img src="PracticeCodes_CV/outputs/code24_output.png" width="200" alt="Code24 Output"></td>
+</tr>
+<tr>
+<td>Input</td>
+<td>Output</td>
+</tr>
+</table>
 
 ## 📧 Support
 

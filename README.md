@@ -432,7 +432,7 @@ Input: Text string
 Output: List of cleaned, tokenized, lemmatized words.  
 <table>
 <tr>
-<td> Text string</td>
+<td> Emails like help@site.com are filtered. I’m LOVING NLP!!! Visit https://x.y. </td>
 <td><img src="PracticeCodes_CV/outputs/code17_output.png" width="200" alt="Code24 Output"></td>
 </tr>
 <tr>
@@ -446,7 +446,16 @@ Input: List of sentences
 Output: Classification report, confusion matrix, predictions, and class probabilities. 
 <table>
 <tr>
-<td>List of sentences</td>
+<td>"I loved this movie, fantastic acting and great story",
+    "This film was terrible and boring",
+    "Absolutely wonderful experience, highly recommend",
+    "Worst acting ever, do not watch",
+    "It was okay, some parts were fun",
+    "I hated the plot, very disappointing",
+    "Brilliant direction and superb cast",
+    "Not good, waste of time",
+    "Enjoyable and engaging from start to finish",
+    "Awful soundtrack and weak story"</td>
 <td><img src="PracticeCodes_CV/outputs/code18_output.png" width="200" alt="Code24 Output"></td>
 </tr>
 <tr>
@@ -460,7 +469,16 @@ Input: List of sentences
 Output: Best parameters, best CV F1 score, and a sample prediction.  
 <table>
 <tr>
-<td>List of sentences</td>
+<td>"excellent movie with great acting",
+    "terrible plot and awful pacing",
+    "loved every moment, fantastic!",
+    "boring and predictable",
+    "superb cinematography and direction",
+    "weak script and bad acting",
+    "what a masterpiece",
+    "not good at all",
+    "brilliant experience overall",
+    "do not recommend"</td>
 <td><img src="PracticeCodes_CV/outputs/code19_output.png" width="200" alt="Code24 Output"></td>
 </tr>
 <tr>
@@ -475,7 +493,9 @@ Input: List of sentences
 Output: Vocabulary list and TF-IDF matrix of the input texts.  
 <table>
 <tr>
-<td>List of sentences</td>
+<td>"machine learning is fun",
+    "deep learning advances machine intelligence",
+    "artificial intelligence and machine learning"</td>
 <td><img src="PracticeCodes_CV/outputs/code20_output.png" width="200" alt="Code24 Output"></td>
 </tr>
 <tr>
@@ -489,7 +509,8 @@ Input: Text string
 Output: Named Entities, POS with lemmas, and noun chunks extracted from text.  
 <table>
 <tr>
-<td>Text string</td>
+<td>"Apple is opening a new office in Bengaluru next quarter. "
+     "Tim Cook met Karnataka officials on September 3, 2025 to discuss expansion."</td>
 <td>
   <img src="PracticeCodes_CV/outputs/code21_output.png" width="200" alt="Code21 Output">
   <img src="PracticeCodes_CV/outputs/code21_output1.png" width="200" alt="Code21 Output">
@@ -506,7 +527,12 @@ Input: List of sentences
 Output: Classification report for sentiment prediction.  
 <table>
 <tr>
-<td>List of sentences</td>
+<td>"I love this movie",
+    "This film was awful",
+    "Amazing performance and great story",
+    "Boring and too long",
+    "Fantastic acting",
+    "Terrible direction"</td>
 <td><img src="PracticeCodes_CV/outputs/code22_output.png" width="200" alt="Code24 Output"></td>
 </tr>
 <tr>
@@ -520,7 +546,9 @@ Input: List of sentences
 Output: Cosine similarity matrix showing pairwise similarity scores.  
 <table>
 <tr>
-<td>List of sentences</td>
+<td>"I love machine learning and NLP",
+    "NLP and machine learning are amazing",
+    "Cooking recipes are fun to try",</td>
 <td><img src="PracticeCodes_CV/outputs/code23_output.png" width="200" alt="Code24 Output"></td>
 </tr>
 <tr>
@@ -534,7 +562,11 @@ Input: List of sentences
 Output: Topics discovered with top words and their weights.  
 <table>
 <tr>
-<td>List of sentences</td>
+<td>"I love deep learning and natural language processing",
+    "Artificial intelligence is the future",
+    "Cooking and baking are my hobbies",
+    "I enjoy trying new recipes in the kitchen",
+    "Machine learning and AI are closely related"</td>
 <td><img src="PracticeCodes_CV/outputs/code24_output.png" width="200" alt="Code24 Output"></td>
 </tr>
 <tr>

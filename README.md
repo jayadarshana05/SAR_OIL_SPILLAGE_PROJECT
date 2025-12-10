@@ -190,9 +190,9 @@ oil_spill/
 - Activate the correct conda/virtual environment
 
 
-## Pracice Codes brief descriptions 
+## Pratice Codes brief descriptions 
 
-*(For results screenshots refer attached word/pdf file in Practice code folder)*.
+*(For results screenshots refer attached pdf file in Practice code folder)*.
 
 1. **Code 1:** Captures live webcam frames (camera index 0) and displays them continuously until the user presses `q`.  
 2. **Code 2:** Captures webcam frames, displays them in real time, and saves each frame as an image into a `frames` folder until `q` is pressed.  

@@ -204,36 +204,12 @@ This project is provided as-is for demonstration and research purposes.
 
 Code_1:
 Input: No input
+
 Output: Live webcam video feed in a window titled "Camera Stream" until ‘q’ is pressed.
 <img width="400" height="200" alt="Screenshot 2025-12-08 202507" src="https://github.com/user-attachments/assets/f6f41b7e-78b3-4e1d-b0c8-b8f6984c0107" />             <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/5427d950-c511-467d-93e6-cbad00c55c97" />
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Code_2:
 Input: No input
+
 Output: Live webcam feed with each frame saved sequentially in a folder named frames.
 
 Code_3:

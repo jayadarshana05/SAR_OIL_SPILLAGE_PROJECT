@@ -305,6 +305,7 @@ Input: Image file path
 Output: Shows grayscale image and its binary thresholded version.
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/82455f37-30f3-438b-b4a3-b0aaf88a4e93" />
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/767c5205-3d2d-4835-ac2e-8545177278c1" />            <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/55e38f51-3521-49d2-8740-c6539236adb7" />
 
 
@@ -347,6 +348,7 @@ Input: Image file path
 Output: Shows original image, blue mask, and filtered blue regions.
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/7bbad383-35f9-4871-8184-b89462c59836" />
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/c458259e-1397-46d8-96fb-65b16098d0fc" />                  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/c96fef11-7453-4e6f-ab02-878e4ea66a0c" />                  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/9dc08371-0bf1-49c9-a42a-de4ddf760478" />
 
 
@@ -359,6 +361,7 @@ Input: Image file path
 Output: Displays extracted foreground in a window.
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4b92ca5e-26ca-4849-a8d4-8dd62a043e41" />
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/95cb4d79-3fb4-4fec-ad0e-490091a832fc" />                   <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/04cc3eaa-265d-4d4b-b26b-274cc4645736" />
 
 
@@ -385,8 +388,9 @@ Input: Image file path
 
 Output: Displays thresholded, eroded, and dilated images.
 
-<img width="871" height="447" alt="image" src="https://github.com/user-attachments/assets/846567de-35ef-4cfa-a2f2-ec1e897d95af" />
-<img width="610" height="414" alt="image" src="https://github.com/user-attachments/assets/380e87bd-1c64-4a12-8d22-7e28d3ceefb2" />                    <img width="507" height="402" alt="image" src="https://github.com/user-attachments/assets/bf7bcc76-62f3-41f0-8ef3-9e9f661e2892" />                  <img width="746" height="460" alt="image" src="https://github.com/user-attachments/assets/a9ecdd69-092b-42f1-9a26-cf554823cb57" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/846567de-35ef-4cfa-a2f2-ec1e897d95af" />
+
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/380e87bd-1c64-4a12-8d22-7e28d3ceefb2" />                    <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/bf7bcc76-62f3-41f0-8ef3-9e9f661e2892" />                  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a9ecdd69-092b-42f1-9a26-cf554823cb57" />
 
 
 

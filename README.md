@@ -236,8 +236,8 @@ Code_4:
 
 Input: Image file path
 
-
 Output: Four windows showing original and flipped images; error if loading fails.
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/5ed5a597-11b3-4549-825b-daac1616f473" />
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/fb7b4c90-939d-479e-88d0-df11228bfc7a" />     <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/699ab9e1-269a-4128-922b-7b5ebcf93e27" />        <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4d6cbb2f-9d2f-41b2-8177-cb9f3e65773c" />       <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/103e0e1f-bfa1-441a-b8ec-c63d11601414" />
 
@@ -264,8 +264,8 @@ Input: Image file path
 
 Output: Shows original and grayscale images; saves grayscale as grayscale_output.jpg.
 
-<img width="404" height="281" alt="image" src="https://github.com/user-attachments/assets/8dc2f347-9ee9-4520-986c-8a89ba5786b1" />
-<img width="370" height="353" alt="image" src="https://github.com/user-attachments/assets/3b62b907-8fe6-47bc-ad13-263ccfb9840c" />            <img width="367" height="350" alt="image" src="https://github.com/user-attachments/assets/3bbe5f72-3878-4f7b-b11a-934e651a5ec6" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/8dc2f347-9ee9-4520-986c-8a89ba5786b1" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/3b62b907-8fe6-47bc-ad13-263ccfb9840c" />            <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/3bbe5f72-3878-4f7b-b11a-934e651a5ec6" />
 
 
 
@@ -277,8 +277,8 @@ Input: Image file path
 
 Output: Displays original and Gaussian-blurred images; saves blurred as blurred_output.jpg.
 
-<img width="538" height="313" alt="image" src="https://github.com/user-attachments/assets/868a2706-34b3-4196-b693-f2e78bf3c6f0" />
-<img width="532" height="367" alt="image" src="https://github.com/user-attachments/assets/7a4ce91a-ecb9-4914-b59c-bb7820b53c2a" />          <img width="546" height="350" alt="image" src="https://github.com/user-attachments/assets/ea425190-2c38-4503-82ed-461591c0e792" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/868a2706-34b3-4196-b693-f2e78bf3c6f0" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/7a4ce91a-ecb9-4914-b59c-bb7820b53c2a" />          <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ea425190-2c38-4503-82ed-461591c0e792" />
 
 
 
@@ -290,7 +290,7 @@ Input: No input
 
 Output: Displays a 500x500 black image with a line, rectangle, circle, and text.
 
-<img width="823" height="507" alt="image" src="https://github.com/user-attachments/assets/8ac28943-616d-4ff1-b06b-89dbcb633329" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/8ac28943-616d-4ff1-b06b-89dbcb633329" />
 
 
 
@@ -300,8 +300,8 @@ Input: Image file path
 
 Output: Shows grayscale image and its binary thresholded version.
 
-<img width="580" height="385" alt="image" src="https://github.com/user-attachments/assets/82455f37-30f3-438b-b4a3-b0aaf88a4e93" />
-<img width="519" height="384" alt="image" src="https://github.com/user-attachments/assets/767c5205-3d2d-4835-ac2e-8545177278c1" />            <img width="577" height="381" alt="image" src="https://github.com/user-attachments/assets/55e38f51-3521-49d2-8740-c6539236adb7" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/82455f37-30f3-438b-b4a3-b0aaf88a4e93" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/767c5205-3d2d-4835-ac2e-8545177278c1" />            <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/55e38f51-3521-49d2-8740-c6539236adb7" />
 
 
 
@@ -311,8 +311,8 @@ Input: Image file path
 
 Output: Displays Canny edge-detected image in a window titled "Edges".
 
-<img width="764" height="403" alt="image" src="https://github.com/user-attachments/assets/bfdc29c3-db61-4dc9-a8a9-9f58b348ca3b" />
-<img width="775" height="418" alt="image" src="https://github.com/user-attachments/assets/3bd701fe-296b-414a-a265-8044bde4a0fd" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/bfdc29c3-db61-4dc9-a8a9-9f58b348ca3b" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/3bd701fe-296b-414a-a265-8044bde4a0fd" />
 
 
 Code_11:
@@ -321,8 +321,8 @@ Input: Image file path
 
 Output: Shows image with blue rectangles around detected faces.
 
-<img width="723" height="426" alt="image" src="https://github.com/user-attachments/assets/636fa658-6710-4a97-bd70-fe3f6f88a5ec" />
-<img width="766" height="447" alt="image" src="https://github.com/user-attachments/assets/992199f1-ded6-4d63-abab-3d0b2c16b5d9" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/636fa658-6710-4a97-bd70-fe3f6f88a5ec" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/992199f1-ded6-4d63-abab-3d0b2c16b5d9" />
 
 
 Code_12:
@@ -331,8 +331,8 @@ Input: Image file path
 
 Output: Displays image with detected contours highlighted in green.
 
-<img width="791" height="406" alt="image" src="https://github.com/user-attachments/assets/61efa18e-66e1-4fd8-8ba4-cf8e79f3484e" />
-<img width="767" height="389" alt="image" src="https://github.com/user-attachments/assets/0b3a0230-46e5-432c-97c6-cb553c8678a1" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/61efa18e-66e1-4fd8-8ba4-cf8e79f3484e" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0b3a0230-46e5-432c-97c6-cb553c8678a1" />
 
 
 
@@ -342,8 +342,8 @@ Input: Image file path
 
 Output: Shows original image, blue mask, and filtered blue regions.
 
-<img width="789" height="475" alt="image" src="https://github.com/user-attachments/assets/7bbad383-35f9-4871-8184-b89462c59836" />
-<img width="609" height="425" alt="image" src="https://github.com/user-attachments/assets/c458259e-1397-46d8-96fb-65b16098d0fc" />                  <img width="536" height="419" alt="image" src="https://github.com/user-attachments/assets/c96fef11-7453-4e6f-ab02-878e4ea66a0c" />                  <img width="582" height="393" alt="image" src="https://github.com/user-attachments/assets/9dc08371-0bf1-49c9-a42a-de4ddf760478" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/7bbad383-35f9-4871-8184-b89462c59836" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/c458259e-1397-46d8-96fb-65b16098d0fc" />                  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/c96fef11-7453-4e6f-ab02-878e4ea66a0c" />                  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/9dc08371-0bf1-49c9-a42a-de4ddf760478" />
 
 
 
@@ -354,8 +354,8 @@ Input: Image file path
 
 Output: Displays extracted foreground in a window.
 
-<img width="452" height="446" alt="image" src="https://github.com/user-attachments/assets/4b92ca5e-26ca-4849-a8d4-8dd62a043e41" />
-<img width="568" height="441" alt="image" src="https://github.com/user-attachments/assets/95cb4d79-3fb4-4fec-ad0e-490091a832fc" />                   <img width="507" height="433" alt="image" src="https://github.com/user-attachments/assets/04cc3eaa-265d-4d4b-b26b-274cc4645736" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4b92ca5e-26ca-4849-a8d4-8dd62a043e41" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/95cb4d79-3fb4-4fec-ad0e-490091a832fc" />                   <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/04cc3eaa-265d-4d4b-b26b-274cc4645736" />
 
 
 
@@ -367,8 +367,8 @@ Input: No input
 
 Output: Live webcam feed highlighting blue-colored regions in real time.
 
-<img width="539" height="399" alt="image" src="https://github.com/user-attachments/assets/2ffc32d8-16f7-4f8b-8eba-8d99b05ef447" />
-<img width="537" height="398" alt="image" src="https://github.com/user-attachments/assets/4ba601af-7f77-4eda-a488-e20c2e6f8144" />                  <img width="640" height="416" alt="image" src="https://github.com/user-attachments/assets/d599a81d-5bc0-405b-a14a-e60270522585" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/2ffc32d8-16f7-4f8b-8eba-8d99b05ef447" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4ba601af-7f77-4eda-a488-e20c2e6f8144" />                  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/d599a81d-5bc0-405b-a14a-e60270522585" />
 
 
 

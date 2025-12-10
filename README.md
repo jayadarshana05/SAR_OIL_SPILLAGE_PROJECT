@@ -238,8 +238,11 @@ Input: Image file path
 
 Output: Four windows showing original and flipped images; error if loading fails.
 
+Input:
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/5ed5a597-11b3-4549-825b-daac1616f473" />
 
+
+Output:
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/fb7b4c90-939d-479e-88d0-df11228bfc7a" />     <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/699ab9e1-269a-4128-922b-7b5ebcf93e27" />        <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4d6cbb2f-9d2f-41b2-8177-cb9f3e65773c" />       <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/103e0e1f-bfa1-441a-b8ec-c63d11601414" />
 
 

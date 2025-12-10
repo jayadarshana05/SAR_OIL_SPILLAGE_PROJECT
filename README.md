@@ -239,6 +239,7 @@ Input: Image file path
 Output: Four windows showing original and flipped images; error if loading fails.
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/5ed5a597-11b3-4549-825b-daac1616f473" />
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/fb7b4c90-939d-479e-88d0-df11228bfc7a" />     <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/699ab9e1-269a-4128-922b-7b5ebcf93e27" />        <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4d6cbb2f-9d2f-41b2-8177-cb9f3e65773c" />       <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/103e0e1f-bfa1-441a-b8ec-c63d11601414" />
 
 
@@ -252,6 +253,7 @@ Input: Image file path
 Output: Shows original and resized 300x300 image; saves resized as resized_output.jpg.
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/2fe5f5a8-2476-459b-86f5-08e939bf3c15" />
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/42162e4b-bcba-400c-82ac-4ee9447187aa" />         <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/d1ed8874-9275-4f3f-9db1-31056a99a887" />
 
 
@@ -265,6 +267,7 @@ Input: Image file path
 Output: Shows original and grayscale images; saves grayscale as grayscale_output.jpg.
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/8dc2f347-9ee9-4520-986c-8a89ba5786b1" />
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/3b62b907-8fe6-47bc-ad13-263ccfb9840c" />            <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/3bbe5f72-3878-4f7b-b11a-934e651a5ec6" />
 
 
@@ -278,6 +281,7 @@ Input: Image file path
 Output: Displays original and Gaussian-blurred images; saves blurred as blurred_output.jpg.
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/868a2706-34b3-4196-b693-f2e78bf3c6f0" />
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/7a4ce91a-ecb9-4914-b59c-bb7820b53c2a" />          <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ea425190-2c38-4503-82ed-461591c0e792" />
 
 

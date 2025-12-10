@@ -211,12 +211,17 @@ Output: Live webcam video feed in a window titled "Camera Stream" until ‘q’ 
 
 
 Code_2:
+
 Input: No input
 
 Output: Live webcam feed with each frame saved sequentially in a folder named frames.
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/f3044b03-5d48-407f-aaa3-c161e3e7dd49" />      <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/9067bf0c-b0e1-4211-8ee6-4ae99709a2cc" />
+
 
 Code_3:
+
 Input: Image file path
+
 Output: Displays the image or prints "Error: Could not read image."
 
 Code_4:
